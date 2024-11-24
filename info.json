@@ -1,0 +1,9 @@
+{
+    "name": "plutonium_rebalance",
+    "version": "0.1.0",
+    "factorio_version": "2.0",
+    "title": "Plutonium Rebalance",
+    "author": "LordOdin",
+    "description": "This mod allows you to adjust power density and weights, energy capacities, and neighbor bonuses for nuclear-related items and reactors. By default it makes plutonium power production much more efficient and convenient, and makes fusion - even more efficient.",
+    "dependencies": ["base >= 2.0", "? PlutoniumEnergy >= 1.7.4"]
+}
